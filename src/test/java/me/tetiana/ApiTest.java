@@ -19,7 +19,7 @@ import static org.hamcrest.Matchers.equalTo;
 
 @TestMethodOrder(MethodOrderer.OrderAnnotation.class)
 public class ApiTest {
-    public static final String PROJECT_ID = "639a3d0a6232bd848e51";
+    public static final String PROJECT_ID = "todo";
 
     public static final String DATABASE_ID = "todo";
 
